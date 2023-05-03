@@ -1,4 +1,7 @@
 ### Hi there 👋
+  ## This is my new github profile
+  ## Due to some issue my new projects will be in this github account
+  ## Make sure to checkout my previous account Shresthadev403 https://github.com/Shresthadev403
 
 <!--
 **jagadishdev403/jagadishdev403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
